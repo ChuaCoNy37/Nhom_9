@@ -6,7 +6,7 @@
            <li> Bùi Thế Tuấn &nbsp;&nbsp;&nbsp;&nbsp;MSSV: 14ĐC184 &nbsp;&nbsp;&nbsp;<b><a href = "buithetuan1@gmail.com"> Email</a>                          </b>:&nbsp;<i>buithetuan1@gmail.com<i></li>
   </ul>
 [4324][Assignment][Nhóm_9] .....<br>
-<a href="nguyen.hcmut@gmail.com" > &nbsp; Email Thầy</a></br>
+<a href="nguyen.hcmut@gmail.com" > &nbsp; Email Thầy</a> : nguyen.hcmut@gmail.com</br>
 <p><b> CC tới: email tất cả thành viên trong nhóm, kể cả người gửi nội dung báo cáo.</b></br>
   Nội dung báo cáo:<br>
     o  Công việc mỗi thành viên tham gia thực hiện giai đoạn X<br>
